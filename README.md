@@ -1,1 +1,1 @@
-![](files/PAYDAYAVGN.png)
+![](PAYDAYAVGN.png)
